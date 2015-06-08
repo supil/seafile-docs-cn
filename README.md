@@ -29,5 +29,5 @@ Seahub（Seafile 服务器的 web 端）遵循 Apache License。
 ## 更多内容
 
 * [更多内容请见 Seafile Wiki](https://seacloud.cc/group/3/wiki/)
-* test
+* test2
 
